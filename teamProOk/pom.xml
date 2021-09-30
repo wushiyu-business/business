@@ -63,7 +63,7 @@
 			<artifactId>ojdbc6</artifactId>
 			<version>6</version>
 			<scope>system</scope>
-			<systemPath>C:\Users\siwoo\Desktop\service-master\service-master\teamProOk\src\main\webapp\WEB-INF\lib\ojdbc6_g.jar</systemPath>
+			<systemPath>C:\sts_workspace\teamProOk\src\main\webapp\WEB-INF\lib\ojdbc6_g.jar</systemPath>
 		</dependency>
    
 		<!-- 이메일 인증  -->
